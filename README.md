@@ -1,0 +1,1 @@
+My React native project config with typescript
